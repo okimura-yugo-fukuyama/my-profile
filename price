@@ -1,1 +1,50 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="author" content="67Flower">
+        <meta name=";description" content="67Flowerの商品価格表">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>67Flower</title>
+<link href="style.css" rel="stylesheet">
+    </head>
+    <body>
+<header>
+<h1>67Flower</h1>
+</header>
+<div class="content">
+<nav>
+<ul>
+<li><a href="index.html">TOP</a></li>
+<li><a href="item.html">ITEM</a></li>
+<li><a href="price.html">PRICE</a></li>
+</ul>
+</nav>
+<main>
 
+<section>
+<h2>PRICE</h2>
+<table>
+<tr>
+<th>アレンジメント</th>
+<td>4,980円から</td>
+</tr>
+<tr>
+<th>ブーケ</th>
+<td>2,500円から</td>
+</tr>
+<tr>
+<th rowspan="2">ポット</th>
+<td>大：700円</td>
+</tr>
+<tr>
+<td>小：500円</td>
+</tr>
+</table>
+</section>
+</main>
+</div>
+<footer>
+<p>Copyright 2025 67Flower.</p>
+</footer>
+    </body>
+</html>
